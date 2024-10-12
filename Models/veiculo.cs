@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace mf_dev_backend_2024.Models
 {
     [Table("Veiculos")]
-    public class veiculo
+    public class Veiculo
     {
         [Key]
         public int Id { get; set; }
@@ -13,8 +13,10 @@ namespace mf_dev_backend_2024.Models
         [Required(ErrorMessage = "Obrigatório informar a placa.")]
         public string Placa { get; set; }
         [Required(ErrorMessage = "Obrigatório informar o ano de fabricação.")]
+        [Display(Name = "Ano de fabrição")]
         public int AnoFabricacao { get; set; }
         [Required(ErrorMessage = "Obrigatório informar o ano do modelo.")]
+        [Display(Name = "Ano do modelo")]
         public int AnoModelo { get; set; }
     }
 }

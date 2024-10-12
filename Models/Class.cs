@@ -5,7 +5,7 @@ namespace mf_dev_backend_2024.Models
     public class AppDbContext : DbContext
     {
         public AppDbContext (DbContextOptions<AppDbContext> options) : base(options) { }
-        public DbSet<veiculo> Veiculos { get; set; }
+        public DbSet<Veiculo> Veiculos { get; set; }
 
     }
 }
