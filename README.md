@@ -1,13 +1,13 @@
-#**Projeto de Desenvolvimento Backend**
+**Projeto de Desenvolvimento Backend**
 
 Este repositório contém um projeto desenvolvido durante a aula de Desenvolvimento Backend do curso de graduação. O objetivo deste projeto foi aplicar os conhecimentos adquiridos na criação de funcionalidades utilizando ASP.NET.
 
-##**Descrição do Projeto**
+**Descrição do Projeto**
 Neste projeto, explorei conceitos fundamentais do desenvolvimento backend, incluindo:
 
-##**Estruturação de APIs**
+**Estruturação de APIs**
 
--Manipulação de banco de dados
+*Manipulação de banco de dados
 
 -Implementação de autenticação e autorização
 
