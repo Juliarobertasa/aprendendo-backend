@@ -16,20 +16,20 @@ Neste projeto, explorei conceitos fundamentais do desenvolvimento backend, inclu
 - **Entity Framework:** Biblioteca para acesso a dados.
 - **SQL Server:** Sistema de gerenciamento de banco de dados.
 - **Postman:** Ferramenta utilizada para testar as APIs.
+
 ## **Instalação**
 ### Para rodar este projeto localmente, siga os passos abaixo:
 
-1.Clone o repositório:
-
-Clone o repositório
+1.Clone o repositório
 `git clone https://github.com/Juliarobertasa/mf-dev-backend-2024.git`
 
-Navegue até o diretório do projeto
+2.Navegue até o diretório do projeto
 `cd mf-dev-backend-2024`
-Restaure as dependências
+
+3.Restaure as dependências
 `dotnet restore`
 
-Execute a aplicação
+4.Execute a aplicação
 `dotnet run`
 
 
