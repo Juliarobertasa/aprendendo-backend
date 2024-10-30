@@ -1,4 +1,4 @@
-**#Projeto de Desenvolvimento Backend**
+**Projeto de Desenvolvimento Backend**
 Este repositório contém um projeto desenvolvido durante a aula de Desenvolvimento Backend do curso de graduação. O objetivo deste projeto foi aplicar os conhecimentos adquiridos na criação de funcionalidades utilizando ASP.NET.
 
 **#Descrição do Projeto**
