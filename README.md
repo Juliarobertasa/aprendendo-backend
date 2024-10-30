@@ -21,43 +21,17 @@ Neste projeto, explorei conceitos fundamentais do desenvolvimento backend, inclu
 
 1.Clone o repositório:
 
-'''
+# Clone o repositório
+git clone https://github.com/Juliarobertasa/mf-dev-backend-2024.git
 
-bash
-Copiar código
-git clone h[ttps://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Juliarobertasa/mf-dev-backend-2024)
+# Navegue até o diretório do projeto
+cd mf-dev-backend-2024
 
-'''
-
-Navegue até o diretório do projeto:
-
-'''
-
-bash
-Copiar código
-cd nome-do-repositorio
-
-'''
-
-Restaure as dependências:
-
-'''
-
-bash
-Copiar código
+# Restaure as dependências
 dotnet restore
 
-'''
-
-Execute a aplicação:
-
-'''
-
-bash
-Copiar código
+# Execute a aplicação
 dotnet run
-
-'''
 
 # **Contribuições**
 Sinta-se à vontade para contribuir com o projeto. Qualquer feedback ou sugestão é bem-vindo!
