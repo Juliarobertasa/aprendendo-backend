@@ -9,7 +9,7 @@ Neste projeto, explorei conceitos fundamentais do desenvolvimento backend, inclu
 
 *Manipulação de banco de dados
 
--Implementação de autenticação e autorização
+- Implementação de autenticação e autorização
 
 **##Tecnologias Utilizadas**
 -**ASP.NET Core:** Framework utilizado para o desenvolvimento da aplicação.
